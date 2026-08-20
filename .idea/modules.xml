@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sonora-fase01.iml" filepath="$PROJECT_DIR$/sonora-fase01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sonora.iml" filepath="$PROJECT_DIR$/Sonora.iml" />
     </modules>
   </component>
 </project>
