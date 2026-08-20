@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff046f86-d476-4085-9f9b-8aac60423adc" name="Changes" comment="Organização do projeto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joaoelyvieira&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/joaoelyvieira/Sonora.git&quot;,
+    &quot;accountId&quot;: &quot;38757802-0c33-4b4f-a452-c17d75f0d856&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0479405812947185" />
+      <entry key="MS500" value="1.9646571614895323" />
+      <entry key="S2" value="3.9187397308337215" />
+      <entry key="S5" value="5.6185063301496845" />
+      <entry key="S10" value="6.614112352845076" />
+      <entry key="S30" value="7.498072659179976" />
+      <entry key="S60" value="8.0733488468712" />
+      <entry key="M2" value="10.167273648904423" />
+      <entry key="M5" value="23.202716284769664" />
+      <entry key="M10" value="42.99858211893587" />
+      <entry key="M15" value="55.055011468993264" />
+      <entry key="M30" value="71.75885763889359" />
+      <entry key="H1" value="82.41661839559418" />
+      <entry key="H2" value="88.44649300735061" />
+      <entry key="H4" value="91.65494645425083" />
+      <entry key="D1" value="94.43275310344782" />
+      <entry key="W1" value="94.91872289224116" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.4193099744223165E-92" />
+      <entry key="S5" value="2.87301527974212E-37" />
+      <entry key="S10" value="6.820904039919385E-19" />
+      <entry key="S30" value="1.6939912447897697E-6" />
+      <entry key="S60" value="0.003033520612022428" />
+      <entry key="M2" value="0.1720250571672961" />
+      <entry key="M5" value="2.299466818717484" />
+      <entry key="M10" value="5.631191139673748" />
+      <entry key="M15" value="7.616060657745329" />
+      <entry key="M30" value="10.317574311449098" />
+      <entry key="H1" value="12.016163832972138" />
+      <entry key="H2" value="12.96956211428706" />
+      <entry key="H4" value="13.474767599176014" />
+      <entry key="D1" value="13.911036695504874" />
+      <entry key="W1" value="13.987255619364912" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.01896249651463" />
+      <entry key="MS500" value="1.95246858061283" />
+      <entry key="S2" value="3.912149774105464" />
+      <entry key="S5" value="5.614446155350277" />
+      <entry key="S10" value="6.611636371006813" />
+      <entry key="S30" value="7.497113233787414" />
+      <entry key="S60" value="8.075738431804607" />
+      <entry key="M2" value="10.335403078287094" />
+      <entry key="M5" value="25.48142997565259" />
+      <entry key="M10" value="48.60348069166944" />
+      <entry key="M15" value="62.64703751080562" />
+      <entry key="M30" value="82.05990910735153" />
+      <entry key="H1" value="94.42308549839082" />
+      <entry key="H2" value="101.41080116412708" />
+      <entry key="H4" value="105.12697923539994" />
+      <entry key="D1" value="108.34331844149709" />
+      <entry key="W1" value="108.90591078616934" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IAK2YyJzkjfYiPXVDFemtINyyY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/Sonora/sonora-fase01/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\Sonora\sonora-fase01\sonora-fase01" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff046f86-d476-4085-9f9b-8aac60423adc" name="Changes" comment="" />
+      <created>1787201728317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787201728317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Organização do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organização do projeto" />
+  </component>
+</project>
